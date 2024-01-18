@@ -36,13 +36,13 @@ Before you begin, ensure you have the following installed:
    ```
 Change into the project directory:
 
-```bash
+```
 Copy code
 cd react-refs-game
 ```
 Install dependencies:
 
-```bash
+```
 Copy code
 npm install
 ```
