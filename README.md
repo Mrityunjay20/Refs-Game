@@ -27,12 +27,12 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/react-refs-game.git
+   git clone https://github.com/Mrityunjay20/Refs-game.git
    ```
 2. Change into the project directory:
 
 ```
-cd react-refs-game
+cd Refs-game
 ```
 3. Install dependencies:
 
