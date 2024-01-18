@@ -13,11 +13,6 @@ Welcome to the React Refs Game! This project is a simple game built with React, 
 - [Usage](#usage)
   - [Running the Game](#running-the-game)
   - [Game Controls](#game-controls)
-- [Development](#development)
-  - [Folder Structure](#folder-structure)
-  - [Available Scripts](#available-scripts)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
@@ -37,24 +32,29 @@ Before you begin, ensure you have the following installed:
 Change into the project directory:
 
 ```
-Copy code
 cd react-refs-game
 ```
 Install dependencies:
 
 ```
-Copy code
 npm install
 ```
 
-Project Overview
+##Project Overview
 Game Description
 The React Refs Game is a simple interactive game where the player can practice using React refs and portals. The game provides opportunities to understand how refs can be used to interact with DOM elements and how portals enable rendering components outside their parent hierarchy.
 
-Key Features
+##Key Features
 Ref Interaction: Practice using refs to manipulate DOM elements.
+
 Portal Usage: Understand the concept of portals by rendering components outside their parent hierarchy.
+
 Simple Gameplay: Enjoy a straightforward game to reinforce the understanding of refs and portals.
+
+##Usage
+```
+npm run dev
+```
 
 
 
