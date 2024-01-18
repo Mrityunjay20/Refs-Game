@@ -29,29 +29,29 @@ Before you begin, ensure you have the following installed:
    ```bash
    git clone https://github.com/your-username/react-refs-game.git
    ```
-Change into the project directory:
+2. Change into the project directory:
 
 ```
 cd react-refs-game
 ```
-Install dependencies:
+3. Install dependencies:
 
 ```
 npm install
 ```
 
-####Project Overview
+### Project Overview
 Game Description
 The React Refs Game is a simple interactive game where the player can practice using React refs and portals. The game provides opportunities to understand how refs can be used to interact with DOM elements and how portals enable rendering components outside their parent hierarchy.
 
-####Key Features
+### Key Features
 Ref Interaction: Practice using refs to manipulate DOM elements.
 
 Portal Usage: Understand the concept of portals by rendering components outside their parent hierarchy.
 
 Simple Gameplay: Enjoy a straightforward game to reinforce the understanding of refs and portals.
 
-####Usage
+#### Usage
 ```
 npm run dev
 ```
